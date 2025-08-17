@@ -1,5 +1,6 @@
 # week-3-python-assignment
 It is a python function used to calculate discount.
+
 How this works:
 The function applies the discount only if the discount percentage is 20% or greater.
 
